@@ -1,0 +1,30 @@
+Data Science Roles:
+Data Acquisition and Preprocessing: You're interacting with an API to retrieve data, which is a common task in data science projects.
+Data Analysis: While the provided example is more about retrieving data, you could extend the project to include data analysis on the retrieved information, such as sentiment analysis on tweets or identifying trends in the data.
+Programming Skills: Demonstrates proficiency in Python, a widely used language in data science for data manipulation and analysis.
+Software Development Roles:
+API Integration: Shows your ability to work with APIs, a common task in software development for integrating external services into applications.
+Scripting and Automation: Demonstrates your ability to write scripts to automate tasks, which is valuable in software development for tasks like data processing, system administration, and more.
+Problem-Solving: Illustrates your problem-solving skills in designing and implementing a solution to meet specific requirements.
+To tailor it to each role, emphasize the aspects that are most relevant. For data science roles, focus on data acquisition, analysis, and the use of Python for these tasks. For software development roles, highlight the API integration, scripting, and problem-solving aspects.
+Imagine there was a search engine that could re-discover exactly what you're thinking about. It's now possible with a specific kind of machine learning called natural language processing (NLP). It teaches computers to understand, interpret, and generate human language.
+
+In this tutorial, we'll build a custom search engine using an API with LLM capabilities! 🚀
+
+LLMs (short for large language models) are a powerful tool within the broader field of NLP. These models are trained on insane amounts of data and can grasp the intricacies of human language. 🤯 A popular LLM that you might already be using is GPT-3.
+LLMs leverage deep learning techniques to generate text, translate languages, answer questions, and so much more. The model estimates the probability of a token or a sequence of tokens in a sequence. A token refers to a unit of language extracted from a larger piece of text.
+
+However, accessing LLMs is a little tricky since training models is both time-consuming and expensive. APIs solve this. APIs serve as a tool to access NLP tasks, such as text generation, translation, summarization, and more, which we'll explore today! Let's learn how we can even build our very own custom search engine! 👀
+
+## Exa API
+Exa (formerly "Metaphor") is an API (application programming interface) that retrieves the best content on the web. With Exa, anyone can semantically search the web to get high-quality, relevant information. With Exa's technology, we can rediscover the content on the internet. Unlike Google, which relies on keyword search (matching the exact words of the query to the web content), Exa can understand both the user's input and the content out there. Wow, right?
+
+Exa utilizes LLMs as a core component, and has been extensively trained to help computers understand human language.
+
+In this tutorial, we will use Exa's capabilities to build a basic search engine that can help you find exactly what you are searching for.
+
+# Set Up
+
+
+
+
