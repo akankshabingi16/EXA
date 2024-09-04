@@ -1,6 +1,10 @@
 ## EXA
 Exa (formerly "Metaphor") is an API (application programming interface) that retrieves the best content on the web. With Exa, anyone can semantically search the web to get high-quality, relevant information. With Exa's technology, we can rediscover the content on the internet. 
-Predicting heart disease using machine learning
+
+
+
+
+## Predicting heart disease using machine learning
 This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
 
 We're going to take the following approach:
